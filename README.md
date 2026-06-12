@@ -9,7 +9,7 @@
 
 Kyra is the best nuker to fuck servers.
 
-Hooks raw websocket gateway, ignores limits, rotates proxies. Fast as fuck.
+
 
 ### Features
 

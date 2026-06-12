@@ -1,0 +1,25 @@
+{
+    "token": "",
+    "use_proxies": false,
+    "spam_message": [
+        "@everyone # shadow on top https://guns.lol/shadow4sure",
+        "@everyone # kyra the best nuker ggs https://discord.gg/dbfyhDvfp7",
+        "@everyone # Get bypassed by kyraa EZEZ https://discord.gg/dbfyhDvfp7"
+    ],
+    "dm_message": [
+        "get kyra nuker now https://discord.gg/dbfyhDvfp7"
+    ],
+    "channel_names": [
+        "shadow-rules",
+        "kyra-on-top",
+        "shadow-runs-you"
+    ],
+    "role_names": [
+        "kyra best nuker of 2026",
+        "fucked by shaow?"
+    ],
+    "webhook_name": "Kyra Runs you",
+    "guild_name": "bypassed EZ",
+    "guild_icon": "",
+    "theme": "blue"
+}

@@ -9,7 +9,7 @@
 
 Kyra is the best nuker to fuck servers.
 
-[Click here to watch showcase](https://youtu.be/c1k1c0EeaNg?si=EUtodbdOzJqu0jfU)
+[Click here to watch showcase](https://youtu.be/60GQy4n1PSU?si=KdSSdrWve2MjALvJ)
 
 ### Features
 

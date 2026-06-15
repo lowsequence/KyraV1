@@ -9,7 +9,7 @@
 
 Kyra is the best nuker to fuck servers.
 
-Hooks raw websocket gateway, ignores limits, rotates proxies. Fast as fuck.
+ Fast as fuck.
 
 ### Features
 
@@ -33,7 +33,7 @@ Hooks raw websocket gateway, ignores limits, rotates proxies. Fast as fuck.
 
 ### Access
 
-The binary is locked. You need the access code to run it. I'm not handing it out to randoms.
+You need the access code to run it.
 Get the key here: https://dsc.gg/astrex-dev
 
 ---

@@ -34,7 +34,7 @@ Kyra is the best nuker to fuck servers.
 ### Access
 
 You need the access code to run it.
-Get the key here: https://dsc.gg/astrex-dev
+Get the key here: https://discord.gg/7nvy3KTdfD
 
 ---
 
@@ -47,13 +47,6 @@ This is the native x64 binary. No python environment needed.
 3. Enter the auth code when prompted.
 4. Pick your target and let it run.
 
-**Source Version**
-If you have access to the uncompiled source and want to run it raw.
-1. Install python 3.9 or higher.
-2. `pip install -r requirements.txt`
-3. `python main.py`
-
----
 
 ### Copyright & License
 
